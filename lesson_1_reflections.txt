@@ -1,0 +1,4 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+I get to revert to old versions if there are features that have to be 
+removed or I want to go back to a trick I used to accomplish the task.
