@@ -1,0 +1,3 @@
+I figured out what the issue was with what I had typed in for git remote add URL. The URL had the button letters copied first and so
+there was a space right after HTTPS followed by SSH and then the correct URL. I used git remote remote origin to get rid of the cloned repo
+and copied the URL by clicking the button. 
